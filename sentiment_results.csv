@@ -1,0 +1,7 @@
+Source,Text,Sentiment,Emotion
+Amazon,"The phone quality is amazing, battery lasts long!",Positive,Joy
+Amazon,Worst purchase ever. Completely useless and waste of money.,Negative,Anger
+Twitter,"I love this new update, works so smoothly!",Positive,Joy
+Twitter,"This app crashes every time, really frustrating.",Negative,Anger
+News,Government announces new policy to support startups.,Positive,Joy
+News,"Stock market crashes, investors worried about future.",Neutral,Anger
